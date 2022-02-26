@@ -290,11 +290,5 @@ public class Cron implements DatesToCronConverter {
         return cron;
     }
 
-    @Override
-    public void getImplementationInfo() {
-        System.out.println("              ВХОДНОЕ ЗАДАНИЕ ОТ УЧЕБНОГО ЦЕНТРА DIGITAL DESIGN");
-        System.out.println("Выполнил: Фокин Илья Александрович");
-        System.out.println("Имя класса реализации: Cron");
-        System.out.println("Пакет: com.fokin.ilya");
-    }
+
 }
