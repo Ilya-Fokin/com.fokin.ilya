@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="com.fokin.ilya:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/com_fokin_ilya_jar</output-path>
+  <artifact type="jar" build-on-make="true" name="com.fokin.ilya:jar">
+    <output-path>$PROJECT_DIR$/out/com_fokin_ilya_jar</output-path>
     <root id="archive" name="com.fokin.ilya.jar">
       <element id="module-output" name="com.fokin.ilya" />
     </root>
